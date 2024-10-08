@@ -1,4 +1,4 @@
-package com.globant.tests;
+package com.globant;
 
 import com.globant.controllers.ProblemSelector;
 import com.globant.controllers.ProblemSelectorImpl;

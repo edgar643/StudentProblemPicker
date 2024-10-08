@@ -16,5 +16,4 @@ public interface ProblemSelector {
      * @return the selected problem for the student
      */
     Problem selectProblem(Student student, List<Problem> problems);
-    Problem selectProblemWithoutStreams(Student student, List<Problem> problems);
 }
